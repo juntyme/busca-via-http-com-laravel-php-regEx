@@ -1,4 +1,6 @@
-## Sistema Teste
+## Sistema de Busca de Veículos via PHP / RegEx
+
+<img src="https://github.com/juntyme/busca-via-http-com-laravel-php-regEx/issues/1#issue-1144810957">
 
 Sistema de Busca de dados em outro site via PHP / RegEx:
 
@@ -35,7 +37,7 @@ Após a instalação execute os comandos para configurar a loja.
 
 ## Acesso ao sistema
 
-usuario: admin@admin.com
+usuario: admin@admin.com<br/>
 senha: admin
 
 ## Finalização
