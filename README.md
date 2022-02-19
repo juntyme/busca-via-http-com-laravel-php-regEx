@@ -29,20 +29,20 @@ DB_PASSWORD=root<p>
 
 Após a instalação execute os comandos para configurar a loja.
 
-1. Execute um dos comandos:
-   composer install
-   composer update
+1. Execute um dos comandos:<br/>
+   composer install<br/>
+   composer update<br/>
 
-2. Criar Tabelas no BD:
-   php artisan migrate
+2. Criar Tabelas no BD:<br/>
+   php artisan migrate<br/>
 
-3. Criar usuário Admin:
-   php artisan db:seed
+3. Criar usuário Admin:<br/>
+   php artisan db:seed<br/>
 
 ## Acesso ao sistema
 
 usuario: admin@admin.com<br/>
-senha: admin
+senha: admin<br/>
 
 ## Finalização
 
