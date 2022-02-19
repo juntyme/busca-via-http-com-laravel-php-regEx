@@ -4,7 +4,7 @@ Sistema de Busca de dados em outro site via PHP / RegEx:
 
 -   PHP ^7.4.22
 -   Laravel Framework 8.83.1
--   Banco de Dados MySQl.
+-   Banco de Dados MySQL.
 
 ## Instalação
 
@@ -12,17 +12,12 @@ Sistema de Busca de dados em outro site via PHP / RegEx:
 2. Crie um Banco de Dados MySQL com o nome de sua preferência.
 3. Configure o Banco de Dados no arquivo (.env), e altere as credenciais para os dados de acesso ao BD.
 
-DB_CONNECTION=mysql
-
-DB_HOST=127.0.0.1
-
-DB_PORT=3306
-
-DB_DATABASE=laravel
-
-DB_USERNAME=root
-
-DB_PASSWORD=root
+<p>DB_CONNECTION=mysql<br/>
+DB_HOST=127.0.0.1<br/>
+DB_PORT=3306<br/>
+DB_DATABASE=laravel<br/>
+DB_USERNAME=root<br/>
+DB_PASSWORD=root<p>
 
 ## Comando para instalação do Laravel
 
