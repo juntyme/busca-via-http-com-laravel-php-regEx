@@ -65,7 +65,7 @@
                 <div class="row">
                     <div class="col-md-6 centered">
                         @if (!empty($request))
-                            <h1>Resultado Pesquisa: <a
+                            <h1>Resultado da Pesquisa: <a
                                     href="{{ route('admin.home') }}"><strong>{{ $request->search }}
                                         [x]</strong>
                                 </a>

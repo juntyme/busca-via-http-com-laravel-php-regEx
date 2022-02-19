@@ -66,7 +66,7 @@
                                 aria-describedby="basic-addon2" required>
                             <div class="input-group-append">
                                 <button class="btn btn-outline-primary btn-lg">
-                                    <i class="fa fa-search"></i> Capturar
+                                    <i class="fa fa-search"></i> Capturar Veículos:
                                 </button>
                             </div>
                         </div>
