@@ -13,10 +13,15 @@ Sistema de Busca de dados em outro site via PHP / RegEx:
 3. Configure o Banco de Dados no arquivo (.env), e altere as credenciais para os dados de acesso ao BD.
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=laravel
+
 DB_USERNAME=root
+
 DB_PASSWORD=root
 
 ## Comando para instalação do Laravel
