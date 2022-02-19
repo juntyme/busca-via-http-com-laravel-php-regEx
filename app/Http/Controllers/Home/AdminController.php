@@ -18,7 +18,6 @@ class AdminController extends Controller
 
         $this->middleware('auth');
     }
-
     /**
      * Home Usuário logado.
      *
